@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+.chipsStyle{
+    padding: 5px 10px;
+    margin: 10px 0;
+    background: gray;
+    color:  white;
+    border-radius: 6px;
+}
+
+#chips-field{
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 20%;
+    background: rgba(0, 0, 0, .2);
+    z-index: 999;
+    padding: 20px;
+}
